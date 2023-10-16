@@ -1,0 +1,19 @@
+-- Exemplo 1
+INSERT INTO Aluno (aluno_id, matriculaAluno, nome)
+VALUES (1, '2023001', 'Maria Silva');
+
+-- Exemplo 2
+INSERT INTO Aluno (aluno_id, matriculaAluno, nome)
+VALUES (2, '2023002', 'João Santos');
+
+-- Exemplo 3
+INSERT INTO Aluno (aluno_id, matriculaAluno, nome)
+VALUES (3, '2023003', 'Ana Oliveira');
+
+-- Exemplo 4
+INSERT INTO Aluno (aluno_id, matriculaAluno, nome)
+VALUES (4, '2023004', 'Pedro Souza');
+
+-- Exemplo 5
+INSERT INTO Aluno (aluno_id, matriculaAluno, nome)
+VALUES (5, '2023005', 'Luisa Martins');

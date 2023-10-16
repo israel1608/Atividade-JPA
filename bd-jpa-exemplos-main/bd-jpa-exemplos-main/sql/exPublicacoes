@@ -1,0 +1,19 @@
+-- Exemplo 1
+INSERT INTO Publicacao (codigoPub, titulo, ano, autor, tipo)
+VALUES (1, 'A Arte da Programação', 2018, 'John Smith', 'Livro');
+
+-- Exemplo 2
+INSERT INTO Publicacao (codigoPub, titulo, ano, autor, tipo)
+VALUES (2, 'Introdução à Inteligência Artificial', 2020, 'Maria Silva', 'Livro');
+
+-- Exemplo 3
+INSERT INTO Publicacao (codigoPub, titulo, ano, autor, tipo)
+VALUES (3, 'Revista Científica de Biologia', 2022, 'Departamento de Biologia', 'Revista');
+
+-- Exemplo 4
+INSERT INTO Publicacao (codigoPub, titulo, ano, autor, tipo)
+VALUES (4, 'A História da Arte Moderna', 2017, 'Emily Johnson', 'Livro');
+
+-- Exemplo 5
+INSERT INTO Publicacao (codigoPub, titulo, ano, autor, tipo)
+VALUES (5, 'Ciência da Computação Avançada', 2021, 'Alan Brown', 'Livro');
