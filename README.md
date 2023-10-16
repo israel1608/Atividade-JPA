@@ -3,7 +3,7 @@ Mecanismo de persistência objeto-relacional exemplo de conexão entre o JPA e o
 
 ## Participantes 
 - ISRAEL COSTA
-- FLÁVIA
+- FLÁVIA CAMPOS
 
 ## Entidades 
 O projeto possui três entidades que são as classes (ou objetos de transferência) Aluno,Emprestimo,Publicacao
