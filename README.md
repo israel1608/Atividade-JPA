@@ -10,7 +10,7 @@ O projeto possui três entidades que são as classes (ou objetos de transferênc
 cada uma delas com seus devidos atributos afim de se relacionar com suas respectivas tabelas no BD H2 através do JPA comforme a atividade exigia 
 
 ## DAO
-O package Dao é dividida em 3 partes a interface, implementação da interface e a classe para testes. Através dela que é possivel realizar as operações com os dados(incluir,alterar,excluir e consultar)
+O package Dao é dividida em 3 partes a interface, implementação da interface e a classe para testes. Através dela que é possivel realizar as operações com os dados(incluir,alterar,excluir e consultar) por meio da Entidade gerenciadora(EntityManager) 
 
 ## SQL
 Essa pasta possui alguns códigos necessários pra a criação e povoamento das tabelas 
